@@ -152,8 +152,8 @@
        				   if ( child.isMesh ) {
 
          				child.material.shading = THREE.SmoothShading;
-       		   		    child.castShadow = true;
-      			        child.receiveShadow = true;
+       		   		 //   child.castShadow = true;
+      			       // child.receiveShadow = true;
 					 //   child.material.envMap = cubeRenderTarget.texture;						
 
 							 if (child.name == "prScreen") {
@@ -234,7 +234,7 @@
 				const spotLight = new THREE.SpotLight( 0xffffff, 0.5 );
 				spotLight.position.set( 300, 50, 0 );
 
-				spotLight.castShadow = true;
+				//spotLight.castShadow = true;
 
 				spotLight.shadow.mapSize.width = 1024;
 				spotLight.shadow.mapSize.height = 1024;
