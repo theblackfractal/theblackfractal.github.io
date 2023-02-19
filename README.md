@@ -1,5 +1,13 @@
-This is my website, built with threejs. 
+Interzone by The Black Fractal
 
-I intend this to be a hub for all my various projects.
+This place serves as something of a portolio, and hub between many metaverse builds and virtual spaces.
 
-Currently it is incomplete and poorly optimized for mobile devices.
+Built with React Three Fiber.
+
+Under continuous development, so will change over time.
+
+...
+
+Twitter: https://twitter.com/theblackfractal
+
+Discord: theblackfractal#8976
