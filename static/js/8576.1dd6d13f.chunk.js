@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinterzone=self.webpackChunkinterzone||[]).push([[8576],{79578:(c,n,t)=>{t.d(n,{rr:()=>s});var e=t(86511);const a="0x313ce567",r=[],o=[{type:"uint8"}];async function s(c){return(0,e.readContract)({contract:c.contract,method:[a,r,o],params:[]})}},8576:(c,n,t)=>{t.d(n,{decimals:()=>r});var e=t(27059),a=t(79578);async function r(c){return(0,e.n)((()=>(0,a.rr)(c)),{cacheKey:"".concat(c.contract.chain.id,":").concat(c.contract.address,":decimals"),cacheTime:Number.POSITIVE_INFINITY})}}}]);
+//# sourceMappingURL=8576.1dd6d13f.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkinterzone=self.webpackChunkinterzone||[]).push([[13514],{13514:(e,l,n)=>{n.r(l),n.d(l,{wallet:()=>a});const a={id:"tech.levain",name:"Levain",homepage:"https://levain.tech/",image_id:"504f6043-9d47-4dd9-5332-49ea67e93100",app:{browser:"https://app.levain.tech/",ios:null,android:null,mac:null,windows:null,linux:null,chrome:null,firefox:null,safari:null,edge:null,opera:null},rdns:"tech.levain",mobile:{native:null,universal:null},desktop:{native:null,universal:"https://app.levain.tech/"}}}}]);
+//# sourceMappingURL=13514.aedd90f6.chunk.js.map
