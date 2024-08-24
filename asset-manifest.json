@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.535f4499.css",
-    "main.js": "/static/js/main.152d4758.js",
+    "main.js": "/static/js/main.d2e86657.js",
     "static/js/14210.06c90cd3.chunk.js": "/static/js/14210.06c90cd3.chunk.js",
     "static/js/46453.a072395e.chunk.js": "/static/js/46453.a072395e.chunk.js",
     "static/js/6957.b343b9ca.chunk.js": "/static/js/6957.b343b9ca.chunk.js",
@@ -826,12 +826,11 @@
     "static/js/27459.4efc1531.chunk.js": "/static/js/27459.4efc1531.chunk.js",
     "static/js/802.51c08eb4.chunk.js": "/static/js/802.51c08eb4.chunk.js",
     "static/js/36374.bc8c31d5.chunk.js": "/static/js/36374.bc8c31d5.chunk.js",
-    "static/media/Concrete042A_1K_Color.png": "/static/media/Concrete042A_1K_Color.d2ac08293f4446ef1b5d.png",
     "static/media/coin-recieved-230517.mp3": "/static/media/coin-recieved-230517.5a742b36cd7d42671056.mp3",
     "static/media/fireWhite.png": "/static/media/fireWhite.e46b0245a4bc20ae59ae.png",
     "index.html": "/index.html",
     "main.535f4499.css.map": "/static/css/main.535f4499.css.map",
-    "main.152d4758.js.map": "/static/js/main.152d4758.js.map",
+    "main.d2e86657.js.map": "/static/js/main.d2e86657.js.map",
     "14210.06c90cd3.chunk.js.map": "/static/js/14210.06c90cd3.chunk.js.map",
     "46453.a072395e.chunk.js.map": "/static/js/46453.a072395e.chunk.js.map",
     "6957.b343b9ca.chunk.js.map": "/static/js/6957.b343b9ca.chunk.js.map",
@@ -1658,6 +1657,6 @@
   },
   "entrypoints": [
     "static/css/main.535f4499.css",
-    "static/js/main.152d4758.js"
+    "static/js/main.d2e86657.js"
   ]
 }
